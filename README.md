@@ -1,4 +1,4 @@
-# :books: ExploratoryDataAnalysis
+# :books: Estatistica-Python
 Repositório de estudos Estatísticos utilizando linguagem Python.
 
 ## :notebook_with_decorative_cover: Requisitos
